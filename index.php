@@ -363,7 +363,7 @@
                     <li class="">
                         <a href="javascript:;">
                             <i class="fa fa-user"></i>
-                            <span class="title">bingung1</span>
+                            <span class="title">bingung1000000</span>
                             <span class="arrow "></span>
                         </a>
                         <ul class="sub-menu">
